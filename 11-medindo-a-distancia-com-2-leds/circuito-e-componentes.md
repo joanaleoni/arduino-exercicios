@@ -4,7 +4,7 @@
 # Componentes:
 - 1 Arduíno UNO R3
 - 1 cabo de conexão USB
-- 1 placa de prototipação (Protoboard)
+- 1 placa de prototipação (protoboard)
 - 1 sensor ultrassônico HC-SR04
 - 2 resistor de 220 Ω ohms
 - 2 LEDs
