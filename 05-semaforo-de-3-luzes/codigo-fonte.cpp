@@ -1,6 +1,6 @@
 int tempo = 0;
 
-void setup()
+void setup() 
 {
   // Porta 13 (LED_BUILTIN) em modo de saída (escrita)
   pinMode(13, OUTPUT); //LED VERMELHO
