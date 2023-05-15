@@ -6,9 +6,9 @@ int guardaEstado = 0;
 
 void setup()
 {
-  // Porta 12 (Botão) em modo de entrada(leitura).
+  // Porta 12 (Botão) em modo de entrada
   pinMode(12, INPUT);
-  // Porta 13 (LED_BUILTIN) em modo de saída(escrita).
+  // Porta 13 (LED_BUILTIN) em modo de saída
   pinMode(LED_BUILTIN, OUTPUT);
 }
 
