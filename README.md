@@ -25,7 +25,7 @@ Neste experimento você irá fazer com que um LED RGB controlado pelas portas di
 08. [Medindo a luminosidade](https://github.com/joanaleoni/arduino-exercicios/tree/main/Exercicios/08-medindo-a-luminosidade)  
 Neste experimento será realizado a leitura de um fotoresistor e armazenado em uma variável, depois esta variável será impressa no monitor serial. O fotoresistor será conectado à porta analógica 0. 
 
-09. [LED sensível à luminosidade](https://github.com/joanaleoni/arduino-exercicios/tree/main/Exercicios/09-led-sensivel-a-luminosidade)
+09. [LED sensível à luminosidade](https://github.com/joanaleoni/arduino-exercicios/tree/main/Exercicios/09-led-sensivel-a-luminosidade)  
 Neste experimento você irá fazer com que um LED controlado pela porta 13 digital seja ligado quando a luminosidade do ambiente baixe para menos de 750 unidades do fotoresistor, caso contrário o LED deve ser desligado. O fotoresistor será conectado à porta analógica 0.
 
 10. [Medindo a distância](https://github.com/joanaleoni/arduino-exercicios/tree/main/Exercicios/10-medindo-a-distancia)  
