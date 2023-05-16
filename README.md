@@ -5,7 +5,7 @@
 Neste experimento você irá fazer com que o LED incorporado e um LED pisque utilizando o pino digital 13 (pino digital incorporado LED_BUILTIN = 13).
   
 02. [Manipulando 2 LEDs em sequência](https://github.com/joanaleoni/arduino-exercicios/tree/main/Exercicios/02-manipulando-2-leds-em-sequencia)  
-Neste experimento você irá fazer com que o LED incorporado e dois LEDs pisquem juntos utilizando o pino digital 13 (pino digital incorporado LED_BUILTIN = 13). |
+Neste experimento você irá fazer com que o LED incorporado e dois LEDs pisquem juntos utilizando o pino digital 13 (pino digital incorporado LED_BUILTIN = 13). 
   
 03. [Manipulando 2 LEDs em paralelo](https://github.com/joanaleoni/arduino-exercicios/tree/main/Exercicios/03-manipulando-2-leds-em-paralelo)  
 Neste experimento você irá fazer com que o LED incorporado e dois LEDs pisquem alternadamente utilizando o pino digital 13 (pino digital incorporado LED_BUILTIN = 13) e o pino digital 12. 
