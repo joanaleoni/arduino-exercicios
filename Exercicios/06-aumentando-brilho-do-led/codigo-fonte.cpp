@@ -2,7 +2,7 @@ int i = 0;
 
 void setup()
 {
-  // Porta 11 em modo de saída (escrita)
+  // Porta 11 em modo de saída
   pinMode(11, OUTPUT);
 }
 
