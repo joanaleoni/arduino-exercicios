@@ -51,3 +51,6 @@ Neste experimento iremos controlar um micro servo na porta PWM 11 e um botão no
   
 17. [Música com buzzer passivo](https://github.com/joanaleoni/arduino-exercicios/tree/main/17-musica-com-buzzer-passivo)  
 Neste experimento um buzzer passivo na porta 12 será ativado tocando as notas musicais Dó, Ré, Mi, Fá, Só, Lá e Si repetidamente.
+  
+18. [Usando sensor de inclinação](https://github.com/joanaleoni/arduino-exercicios/tree/main/18-usando-sensor-de-inclinacao)  
+Neste experimento um sensor de inclinação SW200D será utilizado para acender um LED.
