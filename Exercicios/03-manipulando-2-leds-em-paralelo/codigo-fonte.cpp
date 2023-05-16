@@ -2,9 +2,9 @@ int tempo = 0;
 
 void setup()
 {
-  // Porta 13 (LED_BUILTIN) em modo de saída (escrita)
+  // Porta 13 (LED_BUILTIN) em modo de saída 
   pinMode(LED_BUILTIN, OUTPUT);// LED VERMELHO
-  // Porta 12 em modo de saída (escrita)
+  // Porta 12 em modo de saída
   pinMode(12, OUTPUT); // LED VERDE
   tempo = 1000;
 }
