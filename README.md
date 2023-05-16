@@ -54,3 +54,9 @@ Neste experimento um buzzer passivo na porta 12 será ativado tocando as notas m
   
 18. [Usando sensor de inclinação](https://github.com/joanaleoni/arduino-exercicios/tree/main/18-usando-sensor-de-inclinacao)  
 Neste experimento um sensor de inclinação SW200D será utilizado para acender um LED.
+
+19. [Lendo um potenciômetro](https://github.com/joanaleoni/arduino-exercicios/tree/main/19-lendo-um-potenciometro)  
+Neste experimento faremos a leitura do potenciômetro conectado a porta analógica 0 e escreveremos o valor lido no monitor serial.
+  
+20. [Controlando a velocidade do pisca-pisca](https://github.com/joanaleoni/arduino-exercicios/tree/main/20-controlando-a-velocidade-do-pisca-pisca)  
+Neste experimento faremos a leitura do potenciômetro conectado a porta analógica 0 e um LED conectado a porta digital 13. O valor lido do potenciômetro será a velocidade do pisca-pisca do LED, ou seja o seu tempo de atraso.
