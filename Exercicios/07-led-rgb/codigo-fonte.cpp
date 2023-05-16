@@ -1,10 +1,10 @@
 void setup()
 {
-  //Porta 11 em modo de saída(escrita).
+  //Porta 11 em modo de saída
   pinMode(11, OUTPUT); // Vermelho
-  //Porta 10 em modo de saída(escrita).
+  //Porta 10 em modo de saída
   pinMode(10, OUTPUT); // Azul
-  //Porta 9 em modo de saída(escrita).
+  //Porta 9 em modo de saída
   pinMode(9, OUTPUT); // Verde
 }
 
