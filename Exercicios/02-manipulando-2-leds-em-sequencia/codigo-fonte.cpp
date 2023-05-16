@@ -2,7 +2,7 @@ int tempo = 0;
 
 void setup()
 {
-  // Porta 13 (LED_BUILTIN) em modo de saída (escrita)
+  // Porta 13 (LED_BUILTIN) em modo de saída
   pinMode(LED_BUILTIN, OUTPUT);
   tempo = 1000;
 }
