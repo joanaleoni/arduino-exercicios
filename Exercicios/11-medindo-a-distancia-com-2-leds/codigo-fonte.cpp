@@ -8,12 +8,18 @@ long readUltrasonicDistance(int triggerPin, int echoPin)
   pinMode(triggerPin, OUTPUT);
   digitalWrite(triggerPin, LOW);
   delayMicroseconds(2);
+  
+  // Envia o pulso de trigger
   digitalWrite(triggerPin, HIGH);
   delayMicroseconds(10);
   digitalWrite(triggerPin, LOW);
+  
   // Porta echoPin em modo de entrada 
   pinMode(echoPin, INPUT);
-  return pulseIn(echoPin, HIGH);
+  
+  // Duração do pulso de eco
+  long duration = pulseIn(echoPin, HIGH);
+  return duration / 58;  
 }
 
 void setup()
@@ -26,12 +32,14 @@ void loop()
 {
   // Leitura e cálculo da distância do objeto
   distancia = 0.01723 * readUltrasonicDistance(4, 5);
-  if (distancia < 100) {
+  
+  if (distancia < 10) {
     digitalWrite(12, HIGH);
     digitalWrite(13, LOW);
   } else {
     digitalWrite(12, LOW);
     digitalWrite(13, HIGH);
   }
+  
   delay(10);
 }
