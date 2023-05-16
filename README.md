@@ -45,3 +45,9 @@ Neste experimento um LED na porta 13 será controlado pelo botão na porta digit
   
 15. [Controlando um micro servo](https://github.com/joanaleoni/arduino-exercicios/tree/main/15-controlando-um-micro-servo)  
 Neste experimento iremos controlar um micro servo na porta PWM 11. Um micro servo é um motor que possibilita o controle de sua posição utilizado em aeromodelismo ou em projetos mecatrônicos. O servo mais comum é o Micro Servo TowerPro 9g SG90. Iremos mover o servo de 0 a 90 graus aguardando 15 milésimos de segundo, depois de 90 a 180 graus aguardando de 30 milésimos, aguarda um segundo (1000 milésimos), então volta movendo de 180 a 90 graus aguardando 30 milésimos e por fim de 90 a 0 graus aguardando 15 milésimos de segundo.
+  
+16. [Controlando um micro servo com um botão](https://github.com/joanaleoni/arduino-exercicios/tree/main/16-controlando-um-micro-servo-com-um-botao)  
+Neste experimento iremos controlar um micro servo na porta PWM 11 e um botão no pino 12. Um micro servo é um motor que possibilita o controle de sua posição utilizado em aeromodelismo ou em projetos mecatrônicos. O servo mais comum é o Micro Servo TowerPro 9g SG90. Iremos mover o micro servo de 0 a 180 graus quando o botão for pressionado uma vez. Quando o botão for pressionado novamente o servo deve ser movido de 180 a 0 graus. Para isto o estado do botão deve ser guardado.
+  
+17. [Música com buzzer passivo](https://github.com/joanaleoni/arduino-exercicios/tree/main/17-musica-com-buzzer-passivo)  
+Neste experimento um buzzer passivo na porta 12 será ativado tocando as notas musicais Dó, Ré, Mi, Fá, Só, Lá e Si repetidamente.
